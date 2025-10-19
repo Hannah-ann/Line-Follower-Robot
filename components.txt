@@ -1,0 +1,39 @@
+LINE FOLLOWER ROBOT - COMPONENTS LIST
+-------------------------------------
+
+1. **Arduino UNO**
+   → Main microcontroller board used to process sensor data and control motors.
+
+2. **L293D Motor Driver Module**
+   → Used to drive and control the speed/direction of two DC motors.
+
+3. **IR Sensor Module (2 Nos)**
+   → Detects black and white surfaces to identify the path line.
+
+4. **DC Motors (2 Nos)**
+   → Connected to the motor driver for robot movement.
+
+5. **Robot Chassis**
+   → Base platform to mount Arduino, sensors, and motors.
+
+6. **Wheels (2 Nos)**
+   → Attached to DC motors for movement.
+
+7. **Caster Wheel (1 No)**
+   → Free wheel for balance and smooth turns.
+
+8. **Battery Pack (9V or 12V)**
+   → Powers the motors and Arduino board.
+
+9. **Jumper Wires (Male to Male / Male to Female)**
+   → Used for electrical connections between modules.
+
+10. **Breadboard (Optional)**
+    → For testing and temporary connections.
+
+11. **USB Cable**
+    → To upload code from computer to Arduino UNO.
+
+-------------------------------------
+Total Components: 11
+-------------------------------------
